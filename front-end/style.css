@@ -25,6 +25,7 @@ body {
   align-items: center;
   width: 100%;
   flex-wrap: wrap;
+  overflow-x: hidden;
 }
 
 .logo {
@@ -155,10 +156,10 @@ h1 {
   min-width: 300px;
   max-width: 425px;
   height: auto;
-  min-height: 360px;
+  min-height: 300px;
   border-radius: 30px;
   padding: 50px;
-  gap: 10px;
+  gap: 15px;
 }
 
 .scard1:hover {
