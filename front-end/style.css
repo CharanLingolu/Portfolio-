@@ -11,6 +11,7 @@ html {
 
 body {
   background-color: #e3e3e3;
+  overflow-x: hidden;
 }
 
 .headerSection {
@@ -150,7 +151,7 @@ h1 {
   min-width: 300px;
   max-width: 425px;
   height: auto;
-  min-height: 320px;
+  min-height: 350px;
   border-radius: 30px;
   padding: 50px;
   gap: 10px;
