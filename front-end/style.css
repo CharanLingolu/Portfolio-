@@ -50,7 +50,6 @@ body {
   font-size: 28px;
   cursor: pointer;
   color: black;
-   overflow-x: visible;
 }
 
 .menuList {
@@ -152,7 +151,7 @@ h1 {
   flex-direction: column;
   background-color: rgb(255, 255, 255);
   width: 40vw;
-  min-width: 300px;
+  min-width: 315px;
   max-width: 425px;
   height: auto;
   min-height: 300px;
@@ -266,7 +265,6 @@ h1 {
   padding-left: 10px;
   font-size: 1.3em;
   cursor: pointer;
-   overflow-x: visible;
 }
 
 .repologo:hover {
