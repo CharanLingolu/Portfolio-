@@ -7,10 +7,12 @@ html {
   padding: 0;
   box-sizing: border-box;
   font-family: "Times New Roman", Times, serif;
+  overflow-x: hidden;
 }
 
-html, body {
-  overflow-x: hidden;
+html,
+body {
+  overflow-x: visible;
 }
 
 body {
