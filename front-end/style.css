@@ -25,6 +25,7 @@ body {
   align-items: center;
   width: 100%;
   flex-wrap: wrap;
+    overflow-x: hidden;
 }
 
 .logo {
@@ -178,6 +179,7 @@ h1 {
 .cardtitle {
   font-weight: 800;
   font-size: 25px;
+  text-align: center;
 }
 
 #wpara {
