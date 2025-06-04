@@ -24,8 +24,6 @@ body {
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  flex-wrap: wrap;
-    overflow-x: hidden;
 }
 
 .logo {
